@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doctor-Appointment-Booking-Course-Assessment", "Doctor-Appointment-Booking-Course-Assessment \Doctor-Appointment-Booking-Course-Assessment.csproj", "{7E5496EB-410E-491B-8646-0615775136DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doctor-Appointment-Booking-Course-Assessment", "Doctor-Appointment-Booking-Course-Assessment.csproj", "{7E5496EB-410E-491B-8646-0615775136DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
