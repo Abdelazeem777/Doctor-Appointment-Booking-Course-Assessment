@@ -9,12 +9,16 @@ public class DoctorService
     {
         var repository = new DoctorSlotsRepository();
         return repository.GetDoctorSlots(doctorId);
-        
     }
-    
-    public Task AddNewSlot(DoctorSlot slot)
+
+    public async Task AddNewSlot(DoctorSlot slot)
     {
         var repository = new DoctorSlotsRepository();
-        return repository.AddNewSlot(slot);
+        var isSlotAvailable = await repository.IsSlotAvailable(slot.DoctorId, slot.Time);
+        
+        if (!isSlotAvailable)
+            throw new Exception("Slot is not available");
+
+        await repository.AddNewSlot(slot);
     }
 }

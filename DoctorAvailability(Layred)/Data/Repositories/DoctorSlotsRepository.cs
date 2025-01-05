@@ -39,15 +39,21 @@ public class DoctorSlotsRepository
     
     public async Task<IEnumerable<DoctorSlot>> GetDoctorSlots(Guid doctorId)
     {   
-        // wait 500ms to simulate a database call
-        await Task.Delay(500);
+
         return _slots.Where(s => s.DoctorId == doctorId);
     }
     
     public async Task AddNewSlot(DoctorSlot slot)
     {
-        // wait 500ms to simulate a database call
-        await Task.Delay(500);
+
         _slots.Add(slot);
+    }
+
+
+
+    public async Task<bool> IsSlotAvailable(Guid slotDoctorId, DateTime slotTime)
+    {
+    
+        return !_slots.Any(s => s.DoctorId == slotDoctorId && s.Time == slotTime);
     }
 }
