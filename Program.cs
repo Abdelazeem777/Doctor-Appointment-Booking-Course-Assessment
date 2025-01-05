@@ -14,8 +14,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// For testing purposes, setting the current time to: 2025-01-03 19:59:36
-// And current user: Abdelazeem777
 
 app.UseHttpsRedirection();
 app.UseAuthorization();

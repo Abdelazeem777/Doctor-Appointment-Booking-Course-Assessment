@@ -31,8 +31,15 @@ public class DoctorSlotsController : ControllerBase
     public async Task<ActionResult<DoctorSlot>> AddNewSlot([FromBody] DoctorSlot slot)
     {
         var doctorService = new DoctorService();
-        await doctorService.AddNewSlot(slot);
-        return Ok(slot);
+        try
+        {
+            await doctorService.AddNewSlot(slot);
+            return Ok(slot);
+        }
+        catch (Exception e)
+        {
+            return BadRequest(e.Message);
+        }
         
     }
 }
