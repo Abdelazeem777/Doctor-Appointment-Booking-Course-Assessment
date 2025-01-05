@@ -1,0 +1,91 @@
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/appsettings.Development.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/appsettings.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.deps.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.runtimeconfig.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.pdb
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.csproj.AssemblyReference.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.AssemblyInfoInputs.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.AssemblyInfo.cs
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.csproj.CoreCompileInputs.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.MvcApplicationPartsAssemblyInfo.cs
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.MvcApplicationPartsAssemblyInfo.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.sourcelink.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets.build.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets.development.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets/msbuild.Doctor-Appointment-Booking-Course-Assessment.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets/msbuild.build.Doctor-Appointment-Booking-Course-Assessment.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Doctor-Appointment-Booking-Course-Assessment.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Doctor-Appointment-Booking-Course-Assessment.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets.pack.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/scopedcss/bundle/Doctor-Appointment-Booking-Course-Assessment.styles.css
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-A.99DA6445.Up2Date
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/refint/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.pdb
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.genruntimeconfig.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment /Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/ref/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/appsettings.Development.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/appsettings.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.deps.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.runtimeconfig.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.pdb
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.csproj.AssemblyReference.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.AssemblyInfoInputs.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.AssemblyInfo.cs
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.csproj.CoreCompileInputs.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.MvcApplicationPartsAssemblyInfo.cs
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.MvcApplicationPartsAssemblyInfo.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.sourcelink.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets.build.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets.development.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets/msbuild.Doctor-Appointment-Booking-Course-Assessment.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets/msbuild.build.Doctor-Appointment-Booking-Course-Assessment.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Doctor-Appointment-Booking-Course-Assessment.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Doctor-Appointment-Booking-Course-Assessment.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/staticwebassets.pack.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/scopedcss/bundle/Doctor-Appointment-Booking-Course-Assessment.styles.css
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-A.99DA6445.Up2Date
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/refint/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.pdb
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.genruntimeconfig.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/Doctor-Appointment-Booking-Course-Assessment /obj/Debug/net8.0/ref/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/appsettings.Development.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/appsettings.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.deps.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.runtimeconfig.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.pdb
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.csproj.AssemblyReference.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.AssemblyInfoInputs.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.AssemblyInfo.cs
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.csproj.CoreCompileInputs.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.MvcApplicationPartsAssemblyInfo.cs
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.MvcApplicationPartsAssemblyInfo.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/staticwebassets.build.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/staticwebassets.development.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/staticwebassets/msbuild.Doctor-Appointment-Booking-Course-Assessment.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/staticwebassets/msbuild.build.Doctor-Appointment-Booking-Course-Assessment.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Doctor-Appointment-Booking-Course-Assessment.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Doctor-Appointment-Booking-Course-Assessment.props
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/scopedcss/bundle/Doctor-Appointment-Booking-Course-Assessment.styles.css
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-A.99DA6445.Up2Date
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/refint/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.pdb
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.genruntimeconfig.cache
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/ref/Doctor-Appointment-Booking-Course-Assessment.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Doctor-Appointment-Booking-Course-Assessment.props" />
+</Project>
