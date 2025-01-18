@@ -63,7 +63,6 @@
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.runtimeconfig.json
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.dll
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.pdb
-/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Microsoft.OpenApi.dll
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -90,3 +89,4 @@
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.genruntimeconfig.cache
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/ref/Doctor-Appointment-Booking-Course-Assessment.dll
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.sourcelink.json
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/bin/Debug/net8.0/AutoMapper.dll
