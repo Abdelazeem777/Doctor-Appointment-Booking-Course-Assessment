@@ -89,3 +89,4 @@
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.pdb
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.genruntimeconfig.cache
 /Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/ref/Doctor-Appointment-Booking-Course-Assessment.dll
+/Users/abdelazeemkuratem/Desktop/Work/ASPs/Doctor-Appointment-Booking-Course-Assessment/obj/Debug/net8.0/Doctor-Appointment-Booking-Course-Assessment.sourcelink.json

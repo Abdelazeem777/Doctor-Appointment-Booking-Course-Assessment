@@ -21,4 +21,22 @@ public class DoctorService
 
         await repository.AddNewSlot(slot);
     }
+
+    public Task<IEnumerable<DoctorSlot>> GetAvailableDoctorSlots()
+    {
+        var repository = new DoctorSlotsRepository();
+        return repository.GetAvailableSlots();
+    }
+    
+    public Task<bool> IsSlotAvailable(Guid slotId)
+    {
+        var repository = new DoctorSlotsRepository();
+        return repository.IsSlotAvailable(slotId);
+    }
+    
+    public Task BookSlot(Guid slotId)
+    {
+        var repository = new DoctorSlotsRepository();
+        return repository.BookSlot(slotId);
+    }
 }
