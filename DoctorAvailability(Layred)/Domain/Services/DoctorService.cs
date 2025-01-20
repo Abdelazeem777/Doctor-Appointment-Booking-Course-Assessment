@@ -46,4 +46,10 @@ public class DoctorService
         var repository = new DoctorSlotsRepository();
         return repository.BookSlot(slotId);
     }
+
+    public Task FreeSlot(Guid slotId)
+    {
+        var repository = new DoctorSlotsRepository();
+        return repository.FreeSlot(slotId);
+    }
 }

@@ -26,5 +26,10 @@ public class DoctorAvailabilityModule : IDoctorAvailabilityModule
     {
         return doctorService.BookSlot(slotId);
     }
+    
+    public Task FreeSlot(Guid slotId)
+    {
+        return doctorService.FreeSlot(slotId); 
+    }
 
 }

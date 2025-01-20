@@ -9,4 +9,6 @@ public interface IDoctorAvailabilityModule
     public Task<DoctorSlot?> GetSlotIfExists(Guid slotId);
     
     public Task BookSlot(Guid slotId);
+    
+    public Task FreeSlot(Guid slotId);
 }

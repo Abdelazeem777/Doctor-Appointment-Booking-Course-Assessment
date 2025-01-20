@@ -10,11 +10,14 @@ namespace Doctor_Appointment_Booking_Course_Assessment.DoctorAvailability_Layred
 public class AppointmentRepository : IAppointmentRepository
 {
     private readonly IAppointmentConfirmation _appointmentConfirmation;
+    private readonly IDoctorAvailabilityModule _doctorAvailabilityModule;
     private readonly IMapper _mapper;
 
-    public AppointmentRepository(IAppointmentConfirmation appointmentConfirmation, IMapper mapper)
+    public AppointmentRepository(IAppointmentConfirmation appointmentConfirmation,
+        IDoctorAvailabilityModule doctorAvailabilityModule, IMapper mapper)
     {
         _appointmentConfirmation = appointmentConfirmation;
+        _doctorAvailabilityModule = doctorAvailabilityModule;
         _mapper = mapper;
     }
 
@@ -43,9 +46,9 @@ public class AppointmentRepository : IAppointmentRepository
     public async Task ChangeAppointmentStatus(Guid appointmentId, AppointmentStatus status)
     {
         var appointment = appointments.FirstOrDefault(a => a.Id == appointmentId);
-        if (appointment != null)
-        {
-            appointment.Status = status;
-        }
+        if (appointment == null) return;
+        
+        appointment.Status = status;
+        await _doctorAvailabilityModule.FreeSlot(appointment.SlotId);
     }
 }

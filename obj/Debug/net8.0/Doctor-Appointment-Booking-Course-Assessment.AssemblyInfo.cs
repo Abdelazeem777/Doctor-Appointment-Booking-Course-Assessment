@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Doctor-Appointment-Booking-Course-Assessment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fa551d544da32c8ae7a0e64fa50a87bfa9bb36a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3237551f726653cbf2642d587aa2ccdc01a5cdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Doctor-Appointment-Booking-Course-Assessment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Doctor-Appointment-Booking-Course-Assessment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

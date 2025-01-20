@@ -79,4 +79,14 @@ public class DoctorSlotsRepository
     {
         return  _slots.FirstOrDefault(s => s.Id == slotId);
     }
+
+    public async Task FreeSlot(Guid slotId)
+    {
+        var slot = _slots.FirstOrDefault(s => s.Id == slotId);
+        if (slot == null)
+            throw new Exception("Slot not found");
+        if (!slot.IsReserved)
+            throw new Exception("Slot is already free");
+        slot.IsReserved = false;
+    }
 }
