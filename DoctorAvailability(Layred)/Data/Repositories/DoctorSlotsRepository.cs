@@ -74,4 +74,9 @@ public class DoctorSlotsRepository
             throw new Exception("Slot is already reserved");
         slot.IsReserved = true;
     }
+
+    public async Task<DoctorSlot?> GetSlotIfExists(Guid slotId)
+    {
+        return  _slots.FirstOrDefault(s => s.Id == slotId);
+    }
 }

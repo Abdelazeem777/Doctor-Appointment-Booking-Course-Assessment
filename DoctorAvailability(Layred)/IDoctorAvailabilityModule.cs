@@ -6,7 +6,7 @@ public interface IDoctorAvailabilityModule
 {
     public Task<IEnumerable<DoctorSlot>> GetAvailableDoctorSlots();
 
-    public Task<bool> IsSlotAvailable(Guid slotId);
+    public Task<DoctorSlot?> GetSlotIfExists(Guid slotId);
     
     public Task BookSlot(Guid slotId);
 }

@@ -13,4 +13,9 @@
 
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="AppointmentBooking(CleanArch)\Internal\" />
+      <Folder Include="DoctorAppointmentManagment(Hex)\Core\Models\" />
+    </ItemGroup>
+
 </Project>

@@ -3,11 +3,11 @@ using Doctor_Appointment_Booking_Course_Assessment.DoctorAppointmentManagment.Co
 
 namespace Doctor_Appointment_Booking_Course_Assessment.DoctorAppointmentManagment.Core.Services;
 
-public class DoctorAppointmentManagement : DoctorAppointmentManagementPort
+public class DoctorAppointmentManagementService : DoctorAppointmentManagementPort
 {
     private readonly IAppointmentManagementRepositoryPort _appointmentManagementRepository;
     
-    public DoctorAppointmentManagement(IAppointmentManagementRepositoryPort appointmentManagementRepository)
+    public DoctorAppointmentManagementService(IAppointmentManagementRepositoryPort appointmentManagementRepository)
     {
         _appointmentManagementRepository = appointmentManagementRepository;
     }
@@ -15,7 +15,7 @@ public class DoctorAppointmentManagement : DoctorAppointmentManagementPort
     {
         var isExist = await _appointmentManagementRepository.IsAppointmentExists(appointmentId);
         
-        if (isExist == null)
+        if (!isExist)
             throw new Exception("Appointment not found");
         
         await _appointmentManagementRepository.ChangeAppointmentStatus(appointmentId, status);

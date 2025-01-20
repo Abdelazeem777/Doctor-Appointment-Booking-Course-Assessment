@@ -34,6 +34,13 @@ public class DoctorService
         return repository.IsSlotAvailable(slotId);
     }
     
+    
+    public Task<DoctorSlot?> GetSlotIfExists(Guid slotId)
+    {
+        var repository = new DoctorSlotsRepository();
+        return repository.GetSlotIfExists(slotId);
+    }
+    
     public Task BookSlot(Guid slotId)
     {
         var repository = new DoctorSlotsRepository();

@@ -16,9 +16,9 @@ public class DoctorAvailabilityModule : IDoctorAvailabilityModule
         return doctorService.GetAvailableDoctorSlots();
     }
     
-    public Task<bool> IsSlotAvailable(Guid slotId)
+    public Task<DoctorSlot?> GetSlotIfExists(Guid slotId)
     {
-        return doctorService.IsSlotAvailable(slotId);
+        return doctorService.GetSlotIfExists(slotId);
     }
     
     

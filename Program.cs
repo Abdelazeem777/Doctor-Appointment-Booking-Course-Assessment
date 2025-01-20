@@ -1,7 +1,12 @@
 using AutoMapper;
+using Doctor_Appointment_Booking_Course_Assessment.AppointmentBooking_CleanArch_;
 using Doctor_Appointment_Booking_Course_Assessment.AppointmentBooking_CleanArch_.Domain;
 using Doctor_Appointment_Booking_Course_Assessment.AppointmentBooking_CleanArch_.Domain.Repository;
 using Doctor_Appointment_Booking_Course_Assessment.AppointmentConfirmation;
+using Doctor_Appointment_Booking_Course_Assessment.DoctorAppointmentManagment_Hex_.Shell.Repositories;
+using Doctor_Appointment_Booking_Course_Assessment.DoctorAppointmentManagment.Core;
+using Doctor_Appointment_Booking_Course_Assessment.DoctorAppointmentManagment.Core.InputPorts;
+using Doctor_Appointment_Booking_Course_Assessment.DoctorAppointmentManagment.Core.Services;
 using Doctor_Appointment_Booking_Course_Assessment.DoctorAvailability_Layred_;
 using Doctor_Appointment_Booking_Course_Assessment.DoctorAvailability_Layred_.Data.Repositories;
 using Doctor_Appointment_Booking_Course_Assessment.DoctorAvailability_Layred_.Domain.Services;
@@ -22,6 +27,11 @@ builder.Services.AddScoped<IDoctorAvailabilityModule, DoctorAvailabilityModule>(
 builder.Services.AddScoped<IAppointmentBookingService, AppointmentBookingService>();
 builder.Services.AddScoped<IAppointmentConfirmation, AppointmentConfirmation>();
 builder.Services.AddScoped<INotificationService, NotificationService>();
+
+builder.Services.AddScoped<DoctorAppointmentManagementPort, DoctorAppointmentManagementService>();
+builder.Services.AddScoped<IAppointmentManagementRepositoryPort, AppointmentManagementRepository>();
+
+builder.Services.AddScoped<IAppointmentBookingModule, AppointmentBookingModule>();
 
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 

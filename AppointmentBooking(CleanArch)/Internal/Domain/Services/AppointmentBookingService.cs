@@ -22,16 +22,18 @@ public class AppointmentBookingService : IAppointmentBookingService
 
     public async Task BookSlot(Guid slotId, Guid patientId)
     {
-        var isSlotAvailable = await doctorAvailabilityModule.IsSlotAvailable(slotId);
-        if(!isSlotAvailable) throw new Exception("Slot is not available");
+        var intendedSlot = await doctorAvailabilityModule.GetSlotIfExists(slotId);
+        if(intendedSlot==null) throw new Exception("Slot is not available");
+        
+        if(intendedSlot.IsReserved) throw new Exception("Slot is already reserved");
         
         await doctorAvailabilityModule.BookSlot(slotId);
         
         await appointmentRepository.AddAppointment(new Appointment
         {
             SlotId  = slotId,
-            //TODO: Get patient name from patientId!
-            PatientName = "Patient",
+            DoctorId = intendedSlot.DoctorId,
+            PatientName = "Dummy Patient",
             PatientId = patientId
         });
         
